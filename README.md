@@ -6,9 +6,10 @@ Call video or audio to your friend without registering. Simply send your friend 
 Development
 # Running server
 cd server && yarn watch
-
 # Running webpack-dev-server
 cd client && yarn watch
+
+
 
 
 Front-end Technologies:
